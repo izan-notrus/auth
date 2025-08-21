@@ -1,4 +1,4 @@
-FROM quay.io/keycloak/keycloak:24.0.4
+FROM quay.io/keycloak/keycloak:26.3.3
 
 ENV KC_HEALTH_ENABLED=true
 
